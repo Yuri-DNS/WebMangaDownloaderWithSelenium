@@ -1,5 +1,3 @@
-# Manga Downloader and Image Saver
-
 Este projeto oferece uma solução eficiente para baixar imagens de capítulos de mangás a partir de URLs específicas. Ele utiliza um sistema modular, onde diferentes *fetchers* (recolhedores de links) são escolhidos dinamicamente com base na URL fornecida, permitindo que o código seja facilmente adaptado a diferentes sites.
 
 ## Funcionalidades
