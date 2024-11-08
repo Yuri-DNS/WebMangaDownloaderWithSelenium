@@ -7,7 +7,7 @@ class LinkFetcherChooser:
         self.url = url
 
     def choose_fetcher(self):
-        if "mangaonline.biz" in self.url:
+        if "nome_do_site_1.biz" in self.url:
             return ImageLinkFetcher_exemplo_1(self.url)
         elif "nome_do_site_2.net" in self.url:
             return ImageLinkFetcher_exemplo_2(self.url)
