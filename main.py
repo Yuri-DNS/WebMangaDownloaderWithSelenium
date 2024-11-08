@@ -3,7 +3,7 @@ import os
 from ImageSaver import ImageSaver
 from LinkFetcherChooser import LinkFetcherChooser
 
-url = "https://mangaonline.biz/capitulo/martial-peak-capitulo-3181/"
+url = "https://Exemplo.com/capitulo/3181/"
 
 # Escolher qual LinkFetcher usar com base na URL
 fetcher_chooser = LinkFetcherChooser(url)
